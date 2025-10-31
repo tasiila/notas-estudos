@@ -11,3 +11,7 @@ Atalho para abrir pasta= ctrl+K+O)
 para texto você usa "aspas"
 
 texto = string
+= Atribuição 
+ 
+
+nome de variavel e nome de arquivo nunca colocar espaço, "ç" e acentos 
